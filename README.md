@@ -16,3 +16,5 @@ identifying the file to add/remove or the location to download it to.
 
 If you're curious as to where the files are stored, you can open the repository folder in the project and they should all be moved into there from their
 previous locations.
+
+If you'd like to run it, download the project and simply run the main class- the rest will follow suite. I used Eclipse to write it, so you can easily open the project in Eclipse.
